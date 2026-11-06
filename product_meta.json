@@ -1,0 +1,24 @@
+{
+  "number": 39,
+  "product_id": "JLZ-EDU-SK-033",
+  "chinese_name": "学情分析",
+  "english_name": "Student Learning Analysis",
+  "repository_name": "edu-student-learning-analysis",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-student-learning-analysis-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "多次作业/测评结果、知识点、学习目标、时间范围和学生基本情况",
+  "main_output": "学情概览、知识掌握、趋势、风险点、可验证假设和教学建议",
+  "package_entries": [
+    "edu-student-learning-analysis/SKILL.md",
+    "edu-student-learning-analysis/references/DOMAIN_GUIDE.md",
+    "edu-student-learning-analysis/references/EXAMPLES.md",
+    "edu-student-learning-analysis/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
